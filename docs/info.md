@@ -8,13 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+escribe un número binario de 4 bits que pueden ser x,y,z,w, tenemos 7 salidas a los segmentos a,b,c,d,e,f,g
 
 ## How to test
-
-Explain how to use your project
+seleccionas un bit binario, en la salida tendras su equivalente a 7 segmentos 
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+un displey de 7 segmentos 
